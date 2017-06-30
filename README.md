@@ -1,0 +1,1 @@
+# Generalization-of-Pitagoras-s-Formula
