@@ -1,6 +1,8 @@
-# Generalization-of-Pitagoras-s-Formula
+# Generalization of Pitagoras's Formula
 
-This is simple code that can calculate a length of third side of triangle.
-It needs only lengths of two others sides and angle between them.
+This is a simple code that can calculate a length of the third side of a triangle.
+It needs only lengths of two others sides and the angle between them.
 
-by @Neo & @m4k5
+![comprehend info](https://i.imgur.com/li6Akaz.jpg)
+
+*by @m4k5 & @Neo*
