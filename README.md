@@ -5,5 +5,5 @@ It needs only lengths of two others sides and the angle between them.
 > For more information look at: https://en.wikipedia.org/wiki/Law_of_cosines
 
 ![comprehend info](https://i.imgur.com/li6Akaz.jpg)
-
+___
 *by @m4k5 & @Neo*
