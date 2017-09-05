@@ -1,6 +1,9 @@
-# Generalization-of-Pitagoras-s-Formula
+# Generalization of Pitagoras's Formula (law of cosines)
 
-This is simple code that can calculate a length of third side of triangle.
-It needs only lengths of two others sides and angle between them.
+This is a simple code that can calculate a length of the third side of a triangle.
+It needs only lengths of two others sides and the angle between them.
+> For more information look at: https://en.wikipedia.org/wiki/Law_of_cosines
 
-#by Neo
+![comprehend info](https://i.imgur.com/li6Akaz.jpg)
+___
+*by @m4k5 & @Neo*
