@@ -2,8 +2,8 @@ import math
 
 
 def pitagoras(s1, s2, a):
-    return(math.sqrt(side1 ** 2 + side2 ** 2 -
-                     2 * side1 * side2 * math.cos(angle)))
+    return(math.sqrt(s1 ** 2 + s2 ** 2 -
+                     2 * s1 * s2 * math.cos(a)))
 
 
 if __name__ = "__main__":
